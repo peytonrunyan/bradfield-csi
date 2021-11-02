@@ -1,0 +1,9 @@
+goos: darwin
+goarch: amd64
+pkg: repl/bradfield/memory-hierarchy-2-prework/metrics
+cpu: Intel(R) Core(TM) i5-6267U CPU @ 2.90GHz
+BenchmarkMetrics/Average_age-4               198           6120701 ns/op
+BenchmarkMetrics/Average_payment-4            34          36299146 ns/op
+BenchmarkMetrics/Payment_stddev-4             16          70474360 ns/op
+PASS
+ok      repl/bradfield/memory-hierarchy-2-prework/metrics       9.196s
